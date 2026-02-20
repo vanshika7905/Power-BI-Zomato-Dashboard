@@ -1,4 +1,4 @@
-<img width="1335" height="845" alt="Zomato Dashboard" src="https://github.com/user-attachments/assets/c08fdf60-b438-483f-af24-7518807ff044" />🍽️ Zomato Sales & Performance Dashboard 📊
+🍽️ Zomato Sales & Performance Dashboard 📊
 
 An interactive Data Analytics Dashboard built to analyze Zomato’s city-wise sales, orders, ratings, and food category performance.
 This project focuses on transforming raw data into meaningful business insights using clear and engaging visualizations.
